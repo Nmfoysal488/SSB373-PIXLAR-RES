@@ -1,0 +1,132 @@
+
+
+@media(max-width:991px){
+    .btn_join{
+        display: none;
+    }
+    .large_btn_join{
+        display: inherit;
+    }
+
+}
+@media (max-width:767px) and (min-width:576px) {
+    
+}
+
+@media (max-width:767px) {
+    
+    .top-header{
+        display: none;
+    }
+        .iphone6 img{
+        display: none;
+    }
+}
+
+@media (max-width:575px ) {
+    .instruction-item{
+        margin: 15px 0px;
+    }
+    .service-item {
+    margin: 15px 0;
+    }
+
+    .features_section h1{
+        /* margin-left: 30px; */
+        text-align: center;
+    }
+    .features_section span {
+        margin: auto;
+    }
+
+    .features_section ul li {
+        margin: 30px;
+    }
+
+    .box {
+        height: 45px;
+    }
+    .chart-section img {
+        width: 35%;
+    }
+    .safe {
+     
+        top: 10%;
+        left: 20%;
+        transform: translate(-55%, -2%);
+    }
+    .phone {
+     
+        top: 49%;
+        left: 20%;
+        transform: translate(-55%, -38%);
+    }
+    .Wallet {
+
+        left: 20%;
+        bottom: 15%;
+        transform: translate(-55%, 33%);
+    }
+    .support {
+    
+        top: 10%;
+        right: -7%;
+        /* transform: translate(-15%, -1%); */
+    }
+
+    .exchange {
+  
+        top: 45%;
+        left: 35%;
+        transform: translate(-1, -20%);
+    }
+    .Buys {
+   
+        top: 56%;
+        right: -7%;
+        transform: translate(-85%, 60%);
+    }
+    .fist{
+        margin-bottom: 40px;
+    }
+    .second{
+        margin-bottom: 40px;
+    }
+    .third{
+        margin-bottom: 40px;
+    }
+    .fourth{
+        margin-bottom: 40px;
+    }
+    .div p {
+        text-align: center;
+    }
+
+    .blog .coin {
+        margin-bottom: 25px;
+    }
+    .right ul {
+
+        margin: 0;
+        padding: 0;
+    }
+
+    .form_section form input {
+
+        margin-bottom: 16px;
+    }
+    .input-icon {
+        transform: translate(30px, -45px);
+    }
+
+
+
+
+
+}
+@media (max-width:375px) {
+    .box {
+        height: 29px;
+    }
+    
+}
